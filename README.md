@@ -1,6 +1,6 @@
-# This is my Heading
+# This is my Heading But on The branch
 
-## I think cats are cool but so are dogs
+## I think cats are cool but so are dogs, dogs like branches like this one
 
 <code>
 def add_odd(func):
@@ -19,7 +19,7 @@ print(return_number(5))
 print(return_number(4))
 </code>
 
-### This is an image of my cat at home
+### This is an image of my cat at home he does not chase branches 
 
 ![my cat zuko from home](https://github.com/user-attachments/assets/bf121d4a-ac88-4555-821d-4907e9866825)
 
