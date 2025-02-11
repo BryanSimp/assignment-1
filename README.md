@@ -2,7 +2,8 @@
 
 ##I think cats are cool but so are dogs
 
-<code>def add_odd(func):
+<code>
+def add_odd(func):
     def wrapper(*args, **kwargs):
         result = func(*args, **kwargs)
         if isinstance(result, (int, float)) and result % 2 != 0:
@@ -20,4 +21,5 @@ print(return_number(4))
 
 ###This is an image of my cat at home
 
-![Zuko My Cat](https://photos.fife.usercontent.google.com/pw/AP1GczMbXJBt2yEDSvPGng0okTz3Ew4EtZ6bZt8Frbe5kMgTQLfpJAJv0yH-4g=w783-h919-s-no-gm?authuser=0)
+![my cat zuko from home](https://github.com/user-attachments/assets/bf121d4a-ac88-4555-821d-4907e9866825)
+
